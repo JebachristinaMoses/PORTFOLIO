@@ -14,6 +14,10 @@ MENTOR NAME:NEELA SANTHOSH
 
 #With the help of tools like HTML and CSS, I have created an Responsive Portfolio. I Have structured the content with HTML. styled the application with CSS.  Added elements for the skills container (cards), buttons, and contact form in html. Created a CSS file to style the portfolio elements. 
 
+HTML: To structure the web page and display questions.
+
+CSS: To style the quiz and make it visually appealing.
+
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/b68661bd-0032-48d8-9289-fc97ef86169d)
