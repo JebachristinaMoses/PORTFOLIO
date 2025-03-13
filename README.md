@@ -16,7 +16,7 @@ MENTOR NAME:NEELA SANTHOSH
 
 HTML: To structure the web page and display questions.
 
-CSS: To style the quiz and make it visually appealing.
+CSS: To style the web page and make it visually appealing.
 
 The Porfolio website consists of:
 
