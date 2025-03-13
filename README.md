@@ -18,6 +18,16 @@ HTML: To structure the web page and display questions.
 
 CSS: To style the quiz and make it visually appealing.
 
+The Porfolio website consists of:
+
+1.A home page consists of some information.
+
+2.A About me page consists of my details.
+
+3.A Skills page consits of my skills details.
+
+4.A My Works page and A Contact Me page with Also A home button to go back.
+
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/b68661bd-0032-48d8-9289-fc97ef86169d)
